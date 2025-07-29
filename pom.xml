@@ -53,6 +53,7 @@
             <version>7.7.0</version>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
@@ -63,6 +64,8 @@
             <artifactId>modelmapper</artifactId>
             <version>3.2.2</version>
         </dependency>
+=======
+>>>>>>> c15715e53a675c185aacc82fdac76bae8155a208
     </dependencies>
 
     <build>
